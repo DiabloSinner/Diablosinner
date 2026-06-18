@@ -61,6 +61,21 @@ Este projeto foi desenvolvido para aprimorar conhecimentos em desenvolvimento we
 
 ---
 
+## 🎯 Áreas de Interesse
+
+Sou apaixonada por tecnologia e pelo processo de transformar ideias em projetos reais através da programação. Tenho interesse em diversas áreas do desenvolvimento, especialmente:
+
+* 🎮 Desenvolvimento de jogos para PC, dispositivos móveis e consoles.
+* 📱 Criação de aplicativos mobile.
+* 🌐 Desenvolvimento de sites e aplicações web.
+* 🖥️ Desenvolvimento de software em geral.
+* 🎨 Criação de interfaces e experiências digitais.
+* 🚀 Aprendizado de novas tecnologias e ferramentas.
+
+Gosto de explorar diferentes áreas da tecnologia e estou sempre em busca de novos desafios que me permitam criar soluções, aprender e evoluir como desenvolvedora.
+
+---
+
 ## 🎯 Objetivo Profissional
 
 Estou construindo minha trajetória na área de tecnologia, buscando oportunidades para aplicar meus conhecimentos, adquirir experiência prática e evoluir como desenvolvedora.
